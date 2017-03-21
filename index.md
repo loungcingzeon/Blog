@@ -20,10 +20,10 @@ Syntax highlighted code block
 	安装generator 如：npm install generator-react-webpack -g
 
 #### 使用generator生成器
-	```javascript
+	javascript
 	yo <generatorName> <projectName>
 	如：yo react-webpack gallery-by-react
-  ```
+ 
 
 - Bulleted
 - List
@@ -33,7 +33,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://www.ruanyifeng.com/blogimg/asset/2016/bg2016092301.png) and ![Image](src)
+[Link](url) and ![Image](http://www.ruanyifeng.com/blogimg/asset/2016/bg2016092301.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
