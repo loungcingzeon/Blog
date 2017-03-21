@@ -15,6 +15,16 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+### yeoman入门	
+	安装yeoman  npm install yo -g
+	安装generator 如：npm install generator-react-webpack -g
+
+#### 使用generator生成器
+	```javascript
+	yo <generatorName> <projectName>
+	如：yo react-webpack gallery-by-react
+  ```
+
 - Bulleted
 - List
 
